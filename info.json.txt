@@ -1,0 +1,4 @@
+modjs{
+"ver": "1.1.2"
+"funnumber": "3"
+}
